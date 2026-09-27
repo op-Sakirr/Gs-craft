@@ -18,10 +18,8 @@ export default function Home() {
     "telephone": "+91 80735 89104",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Shivajinagar",
       "addressLocality": "Bengaluru",
       "addressRegion": "Karnataka",
-      "postalCode": "560001",
       "addressCountry": "IN"
     },
     "geo": {

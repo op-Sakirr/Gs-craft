@@ -37,11 +37,10 @@ export default function Footer() {
           </div>
 
           <div>
-            <h4 className="text-white font-bold mb-6 uppercase tracking-widest text-xs">Studio Location</h4>
+            <h4 className="text-white font-bold mb-6 uppercase tracking-widest text-xs">Our Studio</h4>
             <p className="text-gray-500 text-sm leading-relaxed mb-4">
-              #134, Ibrahim Sahib St,<br />
-              Tasker Town, Shivaji Nagar,<br />
-              Bengaluru, 560001
+              Premium Bespoke Tailoring<br />
+              Masterpieces in Every Stitch
             </p>
             <p className="text-amber-500 font-bold text-sm">+91 80735 89104</p>
           </div>

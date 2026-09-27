@@ -26,7 +26,7 @@ export default function Hero() {
           className="max-w-2xl"
         >
           <span className="inline-block px-4 py-1 mb-6 border border-amber-500/30 bg-amber-500/10 text-amber-500 text-xs font-bold uppercase tracking-widest rounded-full">
-            Bespoke Tailoring in Shivaji Nagar, Bengaluru
+            Mastering Bespoke Tailoring
           </span>
           <h1 className="text-5xl md:text-7xl font-serif font-bold text-white leading-tight mb-6">
             Elegance <br />

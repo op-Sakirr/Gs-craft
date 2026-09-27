@@ -44,7 +44,7 @@ export default function Navbar() {
                 GS <span className="text-amber-500">CRAFT</span>
               </span>
               <span className="text-[10px] text-gray-500 uppercase tracking-[0.2em] font-bold mt-1">
-                Shivaji Nagar, BLR
+                Bespoke Tailoring
               </span>
             </div>
           </div>

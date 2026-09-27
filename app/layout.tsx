@@ -19,6 +19,9 @@ export const metadata: Metadata = {
     title: 'GS Craft Shivajinagar | Custom Coat & Sherwani Maker in Bengaluru',
     description: 'Get premium custom-made coats and sherwanis from GS Craft in Shivajinagar, Bengaluru. Explore stylish designs, quality tailoring, and perfectly fitted traditional and formal wear.',
   },
+  verification: {
+    google: 'ZS7Ji6uzAvCK4ZWV-kfNVwciVcpp0w9o9JPaGPKRc4Q',
+  },
 };
 
 export default function RootLayout({children}: {children: React.ReactNode}) {

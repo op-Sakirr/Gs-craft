@@ -20,7 +20,7 @@ export default function GalleryPage() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <h1 className="text-4xl md:text-6xl font-serif font-bold text-white mb-4">Our Gallery</h1>
             <p className="text-gray-400 max-w-2xl mx-auto">
-              Explore our collection of bespoke tailoring, premium fabrics, and handcrafted masterpieces from our Shivaji Nagar studio.
+              Explore our collection of bespoke tailoring, premium fabrics, and handcrafted masterpieces from our studio.
             </p>
           </div>
         </motion.div>

@@ -14,17 +14,17 @@ export default function Location() {
         <div className="flex flex-col lg:flex-row gap-12 overflow-hidden rounded-[40px] bg-zinc-900 border border-white/5">
           <div className="lg:w-1/3 p-12 flex flex-col justify-center">
             <h2 className="text-amber-500 font-bold uppercase tracking-widest text-sm mb-4">Visit Our Studio</h2>
-            <h3 className="text-4xl font-serif text-white font-bold mb-6">Our Shivaji Nagar Studio</h3>
+            <h3 className="text-4xl font-serif text-white font-bold mb-6">Our Studio</h3>
             <p className="text-gray-400 mb-8 leading-relaxed">
-              Step into our flagship studio in the heart of Bengaluru for personal measurements and to feel the luxury of our premium fabrics firsthand.
+              Step into our flagship studio for personal measurements and to feel the luxury of our premium fabrics firsthand.
             </p>
             
             <div className="space-y-6">
               <div className="flex gap-4">
                 <MapPin className="text-amber-500 shrink-0" size={24} />
                 <div>
-                  <p className="text-white font-bold mb-1">Shivaji Nagar, Bengaluru</p>
-                  <p className="text-gray-500 text-sm">#134, Ibrahim Sahib St, near Commercial Street, Tasker Town, Shivaji Nagar, Bengaluru, 560001</p>
+                  <p className="text-white font-bold mb-1">Our Studio</p>
+                  <p className="text-gray-500 text-sm">Premium Bespoke Tailoring</p>
                 </div>
               </div>
               
